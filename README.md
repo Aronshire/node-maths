@@ -21,3 +21,16 @@ const math = new Maths;
 console.log(math.collect(5,2)) //7
 
 ```
+
+
+## Math Operations
+
+```js
+//Add between 2 numbers.
+math.collect(5,7) //12
+
+//Subtract between 2 numbers.
+math.subtraction(7,5) //2
+
+
+```
