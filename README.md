@@ -32,5 +32,16 @@ math.collect(5,7) //12
 //Subtract between 2 numbers.
 math.subtraction(7,5) //2
 
+//Calculates the square of a number.
+math.squares(4) //16
 
+//It solves a problem.
+math.problem(5%8/2*3-8%5-2*5%2) //4,5
+
+//Rounds a number to the number closest to it.
+math.round(11,4) //11
+math.round(11,5) //12
+
+//Divides the two numbers together.
+math.divide(10,2) //2
 ```
