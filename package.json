@@ -1,0 +1,15 @@
+{
+  "name": "node-maths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aronshire",
+  "license": "ISC",
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/[kullaniciAdin]/[DepoIsmin].git"
+  }
+}
