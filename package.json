@@ -1,21 +1,24 @@
 {
   "name": "node-maths",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Node-Maths is a Node.js module that you can use mathematics in any field, any time, unlimitedly.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Aronshire",
-  "license": "MIT",
-  "repository": {
+    "repository": {
     "type": "git",
     "url": "git+https://github.com/Aronshire/node-maths.git"
   },
-  "homepage": "https://github.com/Aronshire/node-maths#readme",
   "keywords": [
     "maths",
     "matematik",
     "mathemathics"
   ]
+  "author": "Aronshire",
+  "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/Aronshire/node-maths/issues"
+  },
+  "homepage": "https://github.com/Aronshire/node-maths#readme"
 }
