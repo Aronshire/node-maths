@@ -11,3 +11,13 @@ Node-Maths is a Node.js module that you can use mathematics in any field, any ti
 ```sh
 npm install --save node-maths
 ```
+
+## Usage
+
+```js
+const { Maths } = require('node-maths');
+const math = new Maths;
+
+console.log(math.collect(5,2)) //7
+
+```
