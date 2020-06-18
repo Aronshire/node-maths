@@ -44,4 +44,13 @@ math.round(11,5) //12
 
 //Divides the two numbers together.
 math.divide(10,2) //2
+
+//Multiplies two numbers.
+math.multiplicat(10,2) //20
+
+//Finds the smallest common multiple between two numbers.
+math.scf(10,2) //10
+
+//Finds the biggest common divisor between two numbers.
+math.bcf(10,2) //2
 ```
