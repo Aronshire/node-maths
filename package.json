@@ -1,6 +1,6 @@
 {
   "name": "node-maths",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "Node-Maths is a Node.js module that you can use mathematics in any field, any time, unlimitedly.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "maths",
     "matematik",
     "mathemathics"
-  ]
+  ],
   "author": "Aronshire",
   "license": "MIT",
     "bugs": {
