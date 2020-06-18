@@ -1,15 +1,21 @@
 {
   "name": "node-maths",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "author": "Aronshire",
-  "license": "ISC",
+  "license": "MIT",
 "repository": {
     "type": "git",
     "url": "git+https://github.com/Aronshire/node-maths.git"
-  }
+  },
+   "homepage": "https://github.com/Aronshire/node-maths#readme",
+	"keywords": [
+    "maths",
+    "matematik",
+    "mathemathics"
+  ]
 }
