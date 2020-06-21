@@ -3,7 +3,7 @@
 [![downloadsBadge](https://img.shields.io/npm/dt/node-maths?style=for-the-badge)](https://npmjs.com/node-maths)
 [![versionBadge](https://img.shields.io/npm/v/node-maths?style=for-the-badge)](https://npmjs.com/node-maths)
 
-<a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+<a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/node-maths.png?downloads=true&stars=true" alt="npm installnfo" /></a>
 
 Node-Maths is a Node.js module that you can use mathematics in any field, any time, **unlimitedly.**
 
