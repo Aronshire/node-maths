@@ -40,8 +40,8 @@ math.squares(4) //16
 math.problem(5%8/2*3-8%5-2*5%2) //4,5
 
 //Rounds a number to the number closest to it.
-math.round(11,4) //11
-math.round(11,5) //12
+math.round(11.4) //11
+math.round(11.5) //12
 
 //Divides the two numbers together.
 math.divide(10,2) //2
