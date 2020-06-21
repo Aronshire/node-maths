@@ -36,8 +36,10 @@ class Maths {
 
     //yuvarlama
     round(number){
+		
+		let fixnumber = number.replace(/,/g, .)
 
-        let result = Math.round(number)
+        let result = Math.round(fixnumber)
 
         return result;
     };
